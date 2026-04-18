@@ -7,7 +7,7 @@ public class tryCatch {
         int[] arr =new int[10];
         try{
             arr[200]=10;
-             int c = a/b;
+            System.out.println(a/b);
            
         }catch(ArithmeticException e){
             System.out.println(" "+e.getMessage());
