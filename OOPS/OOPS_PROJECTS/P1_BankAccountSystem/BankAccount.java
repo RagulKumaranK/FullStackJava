@@ -10,8 +10,12 @@ public class BankAccount implements Transaction{
         return balance;
     }
     public void balanceCheck(){
-        System.out.println("Name :"+name +" || balance :"+balance);
+        System.out.println("Name"+ name +"balance"+ balance);
     }
+
+
+
+
     public void deposit(double amount){
         double temp =balance;
         balance+=amount;
