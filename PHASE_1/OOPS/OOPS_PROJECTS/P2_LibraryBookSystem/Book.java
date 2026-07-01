@@ -1,4 +1,4 @@
-package OOPS.OOPS_PROJECTS.P2_LibraryBookSystem;
+package PHASE_1.OOPS.OOPS_PROJECTS.P2_LibraryBookSystem;
 public class Book {
     String bookName;
     int bookCode;

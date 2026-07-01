@@ -1,4 +1,4 @@
-package Adv_Java.Lambda_Stream;
+package PHASE_1.Adv_Java.Lambda_Stream;
 
 import java.util.Arrays;
 import java.util.List;

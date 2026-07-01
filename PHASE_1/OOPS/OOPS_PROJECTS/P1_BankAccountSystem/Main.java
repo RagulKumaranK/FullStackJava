@@ -1,4 +1,4 @@
-package OOPS.OOPS_PROJECTS.P1_BankAccountSystem;
+package PHASE_1.OOPS.OOPS_PROJECTS.P1_BankAccountSystem;
 public class Main {
     public static void main(String[] args) {
         //ankAccount BA = new BankAccount();
