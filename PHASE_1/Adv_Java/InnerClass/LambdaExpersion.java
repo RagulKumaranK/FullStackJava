@@ -1,3 +1,4 @@
+package PHASE_1.Adv_Java.InnerClass;
 interface example {
     void Display(int x);
 }
