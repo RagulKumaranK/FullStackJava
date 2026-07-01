@@ -1,4 +1,4 @@
-package PHASE_1.Adv_Java.Exception_Handling;
+package PHASE_1.STEP_7_ADV_JAVA.Exception_Handling;
 
 public class thowConcept {
     public static void main(String[] args) {

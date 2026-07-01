@@ -1,4 +1,4 @@
-package PHASE_1.OOPS.OOPS_PROJECTS.P1_BankAccountSystem;
+package PHASE_1.STEP_6_OOPS.OOPS_PROJECTS.P1_BankAccountSystem;
 public class SavingAccount extends BankAccount {
     public void accountType(){
         System.out.println("this is saving account");

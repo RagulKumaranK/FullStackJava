@@ -1,4 +1,4 @@
-package PHASE_1.Adv_Java.InnerClass;
+package PHASE_1.STEP_7_ADV_JAVA.InnerClass;
 class Outer {
     void show() {
         class LocalInner {

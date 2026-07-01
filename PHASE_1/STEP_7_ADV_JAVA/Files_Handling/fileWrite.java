@@ -1,4 +1,4 @@
-package PHASE_1.Adv_Java.Files_Handling;
+package PHASE_1.STEP_7_ADV_JAVA.Files_Handling;
 
 import java.io.FileWriter;
 import java.io.IOException;

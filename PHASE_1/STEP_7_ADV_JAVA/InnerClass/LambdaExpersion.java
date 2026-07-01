@@ -1,4 +1,4 @@
-package PHASE_1.Adv_Java.InnerClass;
+package PHASE_1.STEP_7_ADV_JAVA.InnerClass;
 interface example {
     void Display(int x);
 }
