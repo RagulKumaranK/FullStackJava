@@ -4,6 +4,7 @@ public class thowConcept {
     public static void main(String[] args) {
         SavingAcc SA = new SavingAcc(1500.23);
         SA.withdraw(500);
+        
     }
 }
 class InsufficientBalance extends Exception{
