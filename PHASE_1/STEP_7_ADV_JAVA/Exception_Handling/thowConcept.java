@@ -9,6 +9,7 @@ public class thowConcept {
 }
 class InsufficientBalance extends Exception{
         InsufficientBalance(){
+            
         }
     }
 class SavingAcc{
