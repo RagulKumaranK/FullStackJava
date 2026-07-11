@@ -13,7 +13,7 @@ class InsufficientBalance extends Exception{
         }
     }
 class SavingAcc{
-        private double balance;
+        private   double balance;
         int min =1000;
 
         SavingAcc(double balance){
