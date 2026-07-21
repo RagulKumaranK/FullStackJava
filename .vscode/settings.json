@@ -14,5 +14,6 @@
             "database": "mysql",
             "username": "root"
         }
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }

@@ -13,9 +13,6 @@ public class BankAccount implements Transaction{
         System.out.println("Name"+ name +"balance"+ balance);
     }
 
-
-
-
     public void deposit(double amount){
         double temp =balance;
         balance+=amount;

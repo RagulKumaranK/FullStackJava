@@ -1,4 +1,3 @@
-package TempJavaCodes;
 
 import java.util.Scanner;
 
